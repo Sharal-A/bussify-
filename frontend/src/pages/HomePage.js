@@ -141,7 +141,7 @@ export default function HomePage() {
       </div>
 
       <p style={{ color: 'var(--text-muted)', fontSize: '13px', marginTop: '36px' }}>
-        Reducing overcrowding • Improving safety • Enabling digital payments
+        Reducing overcrowding • Improving safety • Real-time tracking • Enabling digital payments
       </p>
       <p style={{ marginTop: "20px", color: "#aaa", fontSize: "14px" }}>
   Project made by Praveena R, Nivedha Sri AR, Sharal Arasu
