@@ -287,7 +287,7 @@ GET/POST/PUT/DELETE /api/admin/buses
 GET/POST/PUT/DELETE /api/admin/routes
 GET/POST/PUT/DELETE /api/admin/conductors
 ```
-
+<<<<<<< HEAD
 
 ## Project done by 
 - Praveena Raju
