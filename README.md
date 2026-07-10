@@ -287,3 +287,7 @@ GET/POST/PUT/DELETE /api/admin/buses
 GET/POST/PUT/DELETE /api/admin/routes
 GET/POST/PUT/DELETE /api/admin/conductors
 ```
+## Project done by
+- Sharal A
+- Praveena
+- Nivedha
