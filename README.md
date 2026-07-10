@@ -288,7 +288,16 @@ GET/POST/PUT/DELETE /api/admin/routes
 GET/POST/PUT/DELETE /api/admin/conductors
 ```
 
+
 ## Project done by 
 - Praveena Raju
 - Sharal Arasu
 - Nivedha Sri
+
+or
+
+## Project done by
+- Sharal A
+- Praveena
+- Nivedha
+
